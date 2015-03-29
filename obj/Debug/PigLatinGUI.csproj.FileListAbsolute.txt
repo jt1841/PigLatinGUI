@@ -1,0 +1,9 @@
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\bin\Debug\PigLatinGUI.exe.config
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\bin\Debug\PigLatinGUI.exe
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\bin\Debug\PigLatinGUI.pdb
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\obj\Debug\PigLatinGUI.csprojResolveAssemblyReference.cache
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\obj\Debug\PigLatinGUI.PigLatin.resources
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\obj\Debug\PigLatinGUI.Properties.Resources.resources
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\obj\Debug\PigLatinGUI.csproj.GenerateResource.Cache
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\obj\Debug\PigLatinGUI.exe
+c:\users\talbott\documents\visual studio 2013\Projects\PigLatinGUI\PigLatinGUI\obj\Debug\PigLatinGUI.pdb
